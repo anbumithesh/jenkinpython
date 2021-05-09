@@ -4,7 +4,7 @@ list1.reverse()
 print("The reversed list is:", list1)
 
 list2=[91,67,120,34,76,54,78,87,56,64,345]
-list2.sor()
+list2.sort()
 print("The Sorted list is:", list2)
 
 list3=[]
